@@ -81,7 +81,7 @@ h1 {
   border-radius: 50%;
   background: linear-gradient(
     to top,
-    var(--light-slate-blue),
+    /* var(--light-slate-blue), */ red,
     var(--cobalt-blue)
   );
   text-align: center;
